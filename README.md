@@ -40,11 +40,11 @@ To view or edit this project locally, follow these steps:
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/barbois-website.git
+git clone https://github.com/Afiqizaan/Barbois_WebTechProject.git
 ```
 2. **Navigate to the project directory:**
 ```bash
-cd barbois-website
+cd Barbois_WebTechProject
 ```
 3. **Open the** ```index.html``` **file in your browser** to explore the website locally.
 
